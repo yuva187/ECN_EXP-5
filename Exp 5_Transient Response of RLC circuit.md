@@ -22,7 +22,6 @@ Compare the values of phase angle as obtained from the meter readings and from t
 ## Tabular Column:-
 <img width="1508" height="311" alt="image" src="https://github.com/user-attachments/assets/296663b0-5cde-4c46-aa74-39b79f5f9469" />
 
-## Calculations:-
 
 ## Results:
 Thus, the transient analysis of series RLC circuit is done practically.
